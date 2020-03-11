@@ -1,0 +1,7 @@
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\StackQueue\bin\Debug\StackQueue.exe.config
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\StackQueue\bin\Debug\StackQueue.exe
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\StackQueue\bin\Debug\StackQueue.pdb
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\StackQueue\obj\Debug\StackQueue.csprojAssemblyReference.cache
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\StackQueue\obj\Debug\StackQueue.csproj.CoreCompileInputs.cache
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\StackQueue\obj\Debug\StackQueue.exe
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\StackQueue\obj\Debug\StackQueue.pdb
