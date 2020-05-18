@@ -1,0 +1,7 @@
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\Sorting\bin\Debug\Sorting.exe
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\Sorting\bin\Debug\Sorting.pdb
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\Sorting\obj\Debug\Sorting.exe
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\Sorting\obj\Debug\Sorting.pdb
