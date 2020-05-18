@@ -21,7 +21,7 @@ namespace StackQueue
         public StackArray(int maxSize)
         {
             stackArray = new int[maxSize];
-            top = 1;
+            top = - 1;
         }
 
         public int Size()

@@ -117,11 +117,11 @@ namespace Recursion
             return choice;
         }
 
-        public static long Factorial(int n)
+        public static long Factorial(int n) 
         {
             if (n == 0)
                 return 1;
-            return n * Factorial(n - 1);
+            return n * Factorial(n - 1); 
         }
 
         public static void PrintNumbers(int n)
