@@ -28,7 +28,7 @@ namespace FinalExam
                 WriteLine("|                     |");
                 WriteLine("| 1. Insert a Record  |");
                 WriteLine("| 2. Delete a Record  |");
-                WriteLine("| 3. Display Table    |");
+                WriteLine("| 3. Display Records  |");
                 WriteLine("| 4. Exit             |");
                 WriteLine("|_____________________|");
 
@@ -65,7 +65,7 @@ namespace FinalExam
                         break;
 
                     case 3:
-                        table.DisplayTable();
+                        table.DisplayRecords();
                         break;
                 }
             }

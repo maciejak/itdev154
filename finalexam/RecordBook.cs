@@ -52,7 +52,7 @@ namespace FinalExam
             Console.WriteLine("Table is full : Record can't be inserted"); //C
         } // 10C + n = O(n)
 
-        public void DisplayTable()
+        public void DisplayRecords()
         {
             WriteLine("--> Employee Records: \n"); //C
             for (int i = 0; i < s; i++)            //n
