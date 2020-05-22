@@ -19,7 +19,7 @@ namespace FinalExam
             Write("Please enter the size of the employee catalog: ");
             int size = Convert.ToInt32(ReadLine());
 
-            HashTable table = new HashTable(size);
+            RecordBook table = new RecordBook(size);
             Clear();
 
             while (true)
