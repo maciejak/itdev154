@@ -1,0 +1,7 @@
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\FinalExam\obj\Debug\FinalExam.csprojAssemblyReference.cache
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\FinalExam\obj\Debug\FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\FinalExam\bin\Debug\FinalExam.exe.config
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\FinalExam\bin\Debug\FinalExam.exe
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\FinalExam\bin\Debug\FinalExam.pdb
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\FinalExam\obj\Debug\FinalExam.exe
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\FinalExam\obj\Debug\FinalExam.pdb
