@@ -51,23 +51,6 @@ namespace FinalExam
             }
             Console.WriteLine("Table is full : Record can't be inserted"); //C
         } // 10C + n = O(n)
-        
-
-        public EmployeeRecord Search(int key)
-        {
-            int h = hash(key);      //C
-            int location = h;       //C
-
-            for (int i = 1; i < s; i++) //n
-            {
-                if (array[location] == null) //C
-                    return null;
-                if (array[location].GetEmployeeID() == key) //C
-                    return array[location];
-                location = (h + i) % s; //C
-            }
-            return null;
-        } // 5C + n = O(n)
 
         public void DisplayTable()
         {

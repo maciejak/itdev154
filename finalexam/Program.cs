@@ -27,17 +27,16 @@ namespace FinalExam
                 WriteLine(" _____________________");
                 WriteLine("|                     |");
                 WriteLine("| 1. Insert a Record  |");
-                WriteLine("| 2. Search a Record  |");
-                WriteLine("| 3. Delete a Record  |");
-                WriteLine("| 4. Display Table    |");
-                WriteLine("| 5. Exit             |");
+                WriteLine("| 2. Delete a Record  |");
+                WriteLine("| 3. Display Table    |");
+                WriteLine("| 4. Exit             |");
                 WriteLine("|_____________________|");
 
                 Write("--> Enter your choice: ");
                 choice = Convert.ToInt32(ReadLine());
                 Clear();
 
-                if (choice == 5)
+                if (choice == 4)
                     break;
 
                 switch (choice)
@@ -59,25 +58,13 @@ namespace FinalExam
                         break;
 
                     case 2:
-                        Write("Enter an Employee ID to be searched: ");
-                        id = Convert.ToInt32(ReadLine());
-                        aRecord = table.Search(id);
-
-                        if (aRecord == null)
-                            WriteLine("Employee ID not Found");
-                        else
-                            WriteLine(aRecord.ToString());
-                        Clear();
-                        break;
-
-                    case 3:
                         Write("Enter an Employee ID to be deleted: ");
                         id = Convert.ToInt32(ReadLine());
                         table.Delete(id);
                         Clear();
                         break;
 
-                    case 4:
+                    case 3:
                         table.DisplayTable();
                         break;
                 }
