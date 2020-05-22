@@ -59,19 +59,19 @@ namespace FinalExam
                         break;
 
                     case 2:
-                        Write("Enter an ID to be searched: ");
+                        Write("Enter an Employee ID to be searched: ");
                         id = Convert.ToInt32(ReadLine());
                         aRecord = table.Search(id);
 
                         if (aRecord == null)
-                            WriteLine("ID not Found");
+                            WriteLine("Employee ID not Found");
                         else
                             WriteLine(aRecord.ToString());
                         Clear();
                         break;
 
                     case 3:
-                        Write("Enter an ID to be deleted: ");
+                        Write("Enter an Employee ID to be deleted: ");
                         id = Convert.ToInt32(ReadLine());
                         table.Delete(id);
                         Clear();

@@ -10,13 +10,13 @@ namespace FinalExam
     class HashTable
     {
         private EmployeeRecord[] array;
-        private int s; //size of array
-        int n; //number of records
+        private int s; 
+        int n; 
 
-        public HashTable() : this(10) //constructor - if size of table is not created, make a table of size 11
+        public HashTable() : this(10)
         { }
 
-        public HashTable(int tableSize) //constructor
+        public HashTable(int tableSize) 
         {
             s = tableSize;
             array = new EmployeeRecord[s];
@@ -28,7 +28,7 @@ namespace FinalExam
             return (key % s);
         }
 
-        public void Insert(EmployeeRecord newRecord) //linear probing technique (1:39)
+        public void Insert(EmployeeRecord newRecord) 
         {
             int key = newRecord.GetEmployeeID();
             int h = hash(key);
