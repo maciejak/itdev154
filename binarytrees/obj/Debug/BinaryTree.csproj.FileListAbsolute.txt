@@ -1,0 +1,7 @@
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\BinaryTrees\bin\Debug\BinaryTrees.exe.config
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\BinaryTrees\bin\Debug\BinaryTrees.exe
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\BinaryTrees\bin\Debug\BinaryTrees.pdb
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\BinaryTrees\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\BinaryTrees\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\BinaryTrees\obj\Debug\BinaryTrees.exe
+C:\Users\ashma\source\repos\SPRING2020\ITDEV154\BinaryTrees\obj\Debug\BinaryTrees.pdb

@@ -1,0 +1,7 @@
+C:\Users\ashma\source\repos\ITDEV154\ITDEV154\bin\Debug\ITDEV154.exe.config
+C:\Users\ashma\source\repos\ITDEV154\ITDEV154\bin\Debug\ITDEV154.exe
+C:\Users\ashma\source\repos\ITDEV154\ITDEV154\bin\Debug\ITDEV154.pdb
+C:\Users\ashma\source\repos\ITDEV154\ITDEV154\obj\Debug\ITDEV154.csprojAssemblyReference.cache
+C:\Users\ashma\source\repos\ITDEV154\ITDEV154\obj\Debug\ITDEV154.csproj.CoreCompileInputs.cache
+C:\Users\ashma\source\repos\ITDEV154\ITDEV154\obj\Debug\ITDEV154.exe
+C:\Users\ashma\source\repos\ITDEV154\ITDEV154\obj\Debug\ITDEV154.pdb
